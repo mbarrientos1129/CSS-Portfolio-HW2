@@ -43,4 +43,8 @@ footer{
     background: lightslategrey;
     color: #fff;
 }
-    
+
+img{
+    width: 400px;
+    height: 300px;
+}
